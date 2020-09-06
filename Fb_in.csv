@@ -1,0 +1,101 @@
+﻿UserId,Name,Gender,Age,City,Friends,Mobile_Likes,Web_Likes,Views,Tenure
+1,Randolf,Male,28,Pyin Oo Lwin,3979,9032,7542,47495,2
+2,Neil,Male,29,Mengyin,4966,2300,4347,63397,3
+3,Cheri,Female,16,Palmira,4629,157,8609,113768,1
+4,Terence,Male,17,Meilong,2215,58,1788,105926,3
+5,Fionna,Female,14,Puerto Quijarro,3348,6302,3103,68029,4
+6,Adelaide,Female,19,Marevo,2733,9287,8064,77948,5
+7,Pieter,Male,20,Iwaki,4533,4686,1352,50022,1
+8,Gloria,Female,28,San Francisco,3228,1664,3711,6395,2
+9,Fanny,Female,34,Beigao,4442,2390,4407,32947,3
+10,Brendan,Male,56,Heshang,34,558,2028,39537,4
+11,Alecia,Female,89,Pulau Pinang,384,542,4155,93962,6
+12,Eda,Female,56,Bella Vista,330,4153,2796,130783,3
+13,Dalston,Male,33,Saurimo,2020,5090,7185,8867,4
+14,Maxim,Male,12,Wola Jachowa,2320,5789,3084,45610,5
+15,Rodi,Female,15,Christiana,4343,1164,118,78394,6
+16,Coop,Male,16,Neryungri,115,971,5346,59502,7
+17,Maisey,Female,17,Chwaszczyno,4501,8850,6982,102529,8
+18,Juliann,Female,78,Banjaranyar,3299,1555,425,68849,12
+19,Krystle,Female,19,Tortosa,3564,2310,6294,71951,10
+20,Wallis,Female,20,Bamiantong,2064,4299,3139,52062,2
+21,Solomon,Male,21,Slobodnica,2369,8249,6568,58734,3
+22,Carolyne,Female,22,Wulipu,2177,9462,2088,39617,4
+23,Charmane,Female,23,Ursus,1167,3186,7188,111468,5
+24,Ferne,Female,24,Gornyak,795,8632,5168,24331,6
+25,Bibbie,Female,25,Pochayiv,917,3466,2336,140489,1
+26,Foster,Male,26,Soio,4562,7727,9967,116220,2
+27,Loren,Female,27,Shaoxing,938,8475,4696,143091,1
+28,Gawain,Male,28,Taavetti,890,5318,852,145087,1
+29,Lucila,Female,29,Xuri,2235,2206,7941,18371,4
+30,Zed,Male,30,Akhmīm,3540,9430,5798,4199,6
+31,Karly,Female,31,Bucay,2797,8437,366,72895,7
+32,Antonio,Male,32,Maia,865,7849,1467,8853,3
+33,Aldrich,Male,33,Ayorou,2926,7080,4859,62829,3
+34,Reggie,Female,34,Pasar Kidul,2582,8202,1816,61014,2
+35,Gerri,Male,35,Budapest,1076,4709,9825,40573,2
+36,Lewie,Male,36,Châlons-en-Champagne,2253,382,5713,90799,3
+37,Rolf,Male,37,Karnobat,3154,8440,4263,106522,4
+38,Damon,Male,38,Guayabal,4066,8825,3664,135798,1
+39,Henrietta,Female,39,Bāft,4858,5512,5032,8992,1
+40,Bendick,Male,40,Chuncheng,4723,1445,7812,4593,2
+41,Schuyler,Male,41,Ishikawa,3108,781,1680,30834,3
+42,Kendal,Male,42,Atocha,3674,7750,7386,130755,3
+43,Roxie,Female,43,Yanglin,1511,2846,6773,114648,4
+44,Terence,Male,44,Elista,2985,6047,5247,98702,4
+45,Dante,Male,45,Nirasaki,820,4394,1648,79889,4
+46,Pearce,Male,46,Bagong Sikat,3301,1614,6474,38821,4
+47,Mill,Male,47,Ku‘aydinah,4563,1587,8144,43084,4
+48,Coleman,Male,48,Banshu,3419,9052,8737,38171,4
+49,Odie,Male,49,Madur,2059,8069,6507,21190,4
+50,Stanley,Male,50,Wissembourg,3020,7705,7639,29580,6
+51,Llywellyn,Male,51,Yangcun,309,5057,8127,135523,5
+52,Jena,Female,52,Al Qurayn,2999,9968,4096,80280,5
+53,Valene,Female,53,Gayamsari,3646,4589,4332,45289,5
+54,Nonnah,Female,54,Curug,4121,4872,2083,139949,5
+55,Gino,Male,55,Pedra Furada,3094,2281,5903,122962,5
+56,Kaitlin,Female,56,Prosperidad,121,179,951,29895,2
+57,Edwin,Male,57,Nkoteng,3194,3638,1776,99082,3
+58,Demetri,Male,58,Weston,1099,6127,6626,55511,4
+59,Federico,Male,59,Jihuluntu Sumu,4394,3164,2960,149464,5
+60,Evyn,Male,60,Xiahan,1680,7911,5902,87802,6
+61,Ase,Male,61,Pocpo,4925,6008,1445,22397,1
+62,Romeo,Male,62,Petong,2366,8213,4253,33007,6
+63,Vikky,Female,63,Navariya,4119,3570,8759,5614,3
+64,Gordon,Male,64,Lutou,274,5345,1686,87906,6
+65,Lemar,Male,65,Sukasari,1365,5164,8326,108993,7
+66,Howard,Male,66,Corroios,2880,9019,1367,11132,8
+67,Francisco,Male,67,Bulawayo,1984,8495,233,119651,8
+68,Zita,Female,68,Beihuaidian,1366,2077,3199,104371,5
+69,Vergil,Male,69,Kliwon Cibingbin,1950,2649,8284,26609,4
+70,Liuka,Female,70,Dzüünbulag,3188,2512,7502,126642,2
+71,Kendal,Male,71,Dadap,3432,2568,2601,13350,3
+72,Nancy,Female,72,Wysoka,2428,8564,1129,91850,2
+73,Chloette,Female,73,Jedlová,2388,6998,969,92045,1
+74,Suzann,Female,74,Shaami-Yurt,3994,3709,5259,38109,1
+75,Lewie,Male,75,Woha,523,7075,3809,54410,1
+76,Tobiah,Male,76,Cocorná,4136,6478,9804,80926,1
+77,Hoyt,Male,77,Río Grande,378,6852,2846,77150,1
+78,Brandise,Female,78,Sunampe,3262,8206,4506,85588,1
+79,Tiphany,Female,79,Jiangjia,1380,2666,9918,145081,3
+80,Shelagh,Female,80,Dasuhe,2275,5924,2736,67765,3
+81,Gabriela,Female,81,Fenais da Luz,2148,4667,9325,252,3
+82,Jamey,Male,82,Bosobolo,4019,4461,8827,87148,3
+83,Dallis,Male,83,Guanhães,4324,7802,6841,24063,7
+84,Kelsey,Male,84,Hodkovice nad Mohelkou,1006,982,4838,144477,7
+85,Pascale,Male,85,Braunschweig,1198,1219,6680,115019,8
+86,Ola,Female,86,Montecristi,999,1397,7521,54574,4
+87,Jason,Male,87,Caridad,4993,9405,3571,111197,5
+88,Bonni,Female,88,Shahr-e Qods,1538,2455,5841,122523,3
+89,Dulcinea,Female,45,Rokycany,3555,6138,2338,124955,4
+90,Celinda,Female,34,Siikajoki,4775,4524,9186,55436,4
+91,Janine,Female,22,Flagstaff,3712,2385,2617,78882,3
+92,Alida,Female,56,Fornelos,3616,8042,7261,17537,4
+93,Rockie,Male,12,Shumikha,4632,3479,2722,129103,3
+94,Hallie,Female,56,Lete,1590,2696,3945,84217,4
+95,Alexina,Female,14,Zuolan,1500,5776,4243,70201,6
+96,Clyve,Male,67,Łękawica,1908,592,1585,77749,7
+97,Judon,Male,65,Semampir,286,5934,543,75032,7
+98,Serge,Male,43,Narvacan,2828,9334,1661,92501,8
+99,Doug,Male,61,Kananya,2678,4758,8840,50503,3
+100,Archambault,Male,22,Komendantsky aerodrom,411,8767,4806,113909,2
